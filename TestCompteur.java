@@ -11,8 +11,6 @@ public class TestCompteur {
 			c2.incrementer();
 			System.out.println(c1.getCourant());
 			System.out.println(c2.getCourant());
-			c1.raz();
-			c2.raz();
 		}
 		c1.raz();
 		c2.raz();
